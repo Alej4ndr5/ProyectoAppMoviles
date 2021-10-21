@@ -11,22 +11,31 @@
         android:theme="@style/Theme.proyectomoviles">
         <activity
             android:name=".inicio"
-            android:exported="true" />
-        <activity
-            android:name=".Header"
-            android:exported="true" />
-        <activity
-            android:name=".carrito"
-            android:exported="true" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true" >
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
+        <activity
+            android:name=".Header"
+            android:exported="true" />
+        <activity
+            android:name=".carrito"
+            android:exported="true" />
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+
+        </activity>
+
+
+
     </application>
 
 </manifest>
