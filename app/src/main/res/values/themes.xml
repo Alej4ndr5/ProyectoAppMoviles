@@ -3,7 +3,7 @@
     <style name="Theme.proyectomoviles" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/principal</item>
-        <item name="colorPrimaryVariant">@color/principal</item>
+        <item name="colorPrimaryVariant">@color/morado_500</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
