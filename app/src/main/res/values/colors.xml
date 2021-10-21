@@ -12,4 +12,19 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+
+
+    <!-- COLORES DE LA APP QUE USAREMOS COLOR CLARO-->
+
+    <color name="blanco">#FFFFFFFF</color>
+    <color name="morado_100">#F6F3FE</color>
+    <color name="morado_300">#976EDF</color>
+    <color name="morado_500">#6743A5</color>
+    <color name="plomo_100">#F5F5F5</color>
+    <color name="plomo_300">#9E9E9E</color>
+    <color name="rojo_precio">#EB2840</color>
+    <color name="footer">#2F2F2F</color>
+
 </resources>

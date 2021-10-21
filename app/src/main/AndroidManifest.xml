@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.proyectomoviles">
         <activity
+            android:name=".inicio"
+            android:exported="true" />
+        <activity
             android:name=".Header"
             android:exported="true" />
         <activity
