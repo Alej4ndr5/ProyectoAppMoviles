@@ -12,6 +12,8 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:theme="@style/ThemeOverlay.AppCompat.Dark">
 
+    <!--
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
@@ -34,6 +36,9 @@
         android:text="30 puntos"
         android:textColor="@color/principal" />
 
+
+    -->
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -42,13 +47,19 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="REGISTRAR"
+            android:text="INICIAR SESION"
+            android:padding="10dp"
+            android:background="@drawable/boton_redondo"
             />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="INICIAR"/>
+            android:text="REGISTRATE"
+            android:padding="10dp"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/boton_redondo_claro"
+            />
 
     </LinearLayout>
 
